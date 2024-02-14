@@ -3,7 +3,7 @@
 
 - 👩‍🔧 Open space project in which I am developing <a href="https://github.com/bycza-zagroda" target="_blank"><b>Track-expenses</b></a>
 
-- 🔭 I’m currently learning **Java Script**
+- 🔭 I’m currently learning **Mapbox - advanced level **
 
 - 💬 Ask me about **technologies from my stack**
 
@@ -14,8 +14,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
+<a href="https://react.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+<a href="https://next.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
+
 <a href="https://angular.io" target="_blank"> 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<img src="https://angular.io/assets/images/logo/angular/angular.svg" alt="react" width="40" height="40"/> </a>
 
 <a href="https://www.w3.org/html/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
