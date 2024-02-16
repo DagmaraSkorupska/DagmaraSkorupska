@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dagmara</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 👩‍🔧 Open space project in which I am developing <a href="https://github.com/bycza-zagroda" target="_blank"><b>Track-expenses</b></a>
 
